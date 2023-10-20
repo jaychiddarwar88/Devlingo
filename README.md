@@ -1,4 +1,4 @@
-# DevLingo SER502-Spring2023-Team20
+# DevLingo 
 DevLingo is a basic programming language that we created for the SER502 final project. This repository provides the source code, scripts, and tools needed to create and operate the DevLingo programming language on the Mac operating system.
 # Development Environment
 To build and run DevLingo, you will need following tools and systems-
@@ -22,4 +22,10 @@ We have provided few sample programs, their intermediate code generated and thei
 The youtube link of the video :
 
 https://youtu.be/7OsQjCy9OfA
-# Devlingo
+
+# Contributor:
+Jay Sachin Chiddarwar
+Manmeet Singh
+Ajinkya Pise
+Debesh Pradhan
+
