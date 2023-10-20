@@ -1,0 +1,12 @@
+main(){
+    boolean a = true
+    boolean b = false
+
+    boolean result1 = a and b
+    printf(result1)
+
+    boolean result2 = a or b
+    printf(result2)
+
+
+}

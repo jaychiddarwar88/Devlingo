@@ -1,0 +1,11 @@
+main(){
+
+    string check = "Hello"
+    int a = 0
+    while(a < 4){
+        printf(check)
+        a = a+1;
+    }
+
+
+}

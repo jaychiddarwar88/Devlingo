@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SER502-Spring2023-Team20:jar">
+    <output-path>$PROJECT_DIR$/data</output-path>
+    <root id="archive" name="SER502-Spring2023-Team20.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SER502-Spring2023-Team20" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/antlr/antlr4-runtime/4.10/antlr4-runtime-4.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

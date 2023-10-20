@@ -1,0 +1,9 @@
+main(){
+    string language = "DevLingo"
+    for i in range(1 ; 5){
+
+        printf(language)
+
+    }
+
+}

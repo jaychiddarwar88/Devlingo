@@ -1,0 +1,7 @@
+main(){
+    boolean a = true
+    boolean b = false
+
+    boolean c = a or b
+    printf(c)
+}
